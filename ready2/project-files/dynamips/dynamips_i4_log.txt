@@ -1,0 +1,6 @@
+May 19 10:55:57.170 HYPERVISOR: Release 0.2.23-amd64/Linux (tag 2023010200)
+May 19 10:55:57.170 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 40141.
+May 19 10:55:57.177 HYPERVISOR: exec_cmd: hypervisor version 
+May 19 10:55:57.178 HYPERVISOR: exec_cmd: hypervisor working_dir /home/user/GNS3/projects/ready2/project-files/dynamips 
+May 19 10:55:57.178 GENERAL: working_dir=/home/user/GNS3/projects/ready2/project-files/dynamips
+May 19 10:55:57.178 HYPERVISOR: exec_cmd: nio_bridge create Hub1 

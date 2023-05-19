@@ -4,3 +4,7 @@ May 19 09:56:33.047 HYPERVISOR: exec_cmd: hypervisor version
 May 19 09:56:33.047 HYPERVISOR: exec_cmd: hypervisor working_dir /home/user/GNS3/projects/ready/project-files/dynamips 
 May 19 09:56:33.047 GENERAL: working_dir=/home/user/GNS3/projects/ready/project-files/dynamips
 May 19 09:56:33.047 HYPERVISOR: exec_cmd: nio_bridge create Hub1 
+May 19 10:55:44.143 HYPERVISOR: exec_cmd: nio_bridge delete Hub1 
+May 19 10:55:44.144 HYPERVISOR: exec_cmd: hypervisor stop 
+May 19 10:55:44.215 HYPERVISOR: Stopped.
+May 19 10:55:44.215 GENERAL: reset done.

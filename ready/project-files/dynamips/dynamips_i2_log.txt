@@ -4,3 +4,7 @@ May 19 09:56:30.886 HYPERVISOR: exec_cmd: hypervisor version
 May 19 09:56:30.886 HYPERVISOR: exec_cmd: hypervisor working_dir /home/user/GNS3/projects/ready/project-files/dynamips 
 May 19 09:56:30.886 GENERAL: working_dir=/home/user/GNS3/projects/ready/project-files/dynamips
 May 19 09:56:30.886 HYPERVISOR: exec_cmd: ethsw create Switch2 
+May 19 10:55:44.143 HYPERVISOR: exec_cmd: ethsw delete Switch2 
+May 19 10:55:44.143 HYPERVISOR: exec_cmd: hypervisor stop 
+May 19 10:55:44.567 HYPERVISOR: Stopped.
+May 19 10:55:44.567 GENERAL: reset done.
